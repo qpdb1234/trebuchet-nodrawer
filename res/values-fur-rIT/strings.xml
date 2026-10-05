@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desktop_show_labels">Mostre lis etichetis des iconis te schermade di inizi</string>
+    <string name="drawer_show_labels">Mostre lis etichetis des iconis tal scansel</string>
+    <string name="msg_minus_one_on_left">Cuant che, de schermade di inizi, tu scoris viers diestre</string>
+    <string name="msg_minus_one_on_right">Cuant che, de schermade di inizi, tu scoris viers çampe</string>
+    <string name="pref_suggestions_summary">Par visualizâ sugjeriments tal scansel e te schermade di inizi</string>
+    <string name="pref_suggestions_title">Sugjeriments</string>
+    <string name="pref_themed_icons_summary">Va daûr dal stîl des iconis doprât te schermade di inizi</string>
+    <string name="pref_themed_icons_title">Tal scansel, dopre lis iconis a teme</string>
+    <string name="settings_edit_widgets_error">Nol è pussibil zontâ widgets ae schermade di inizi</string>
+    <string name="settings_lock_layout_summary_off">Al è pussibil zontâ, gjavâ e spostâ iconis e widgets su la schermade di inizi</string>
+    <string name="settings_lock_layout_summary_on">Nol è pussibil zontâ, gjavâ e spostâ iconis e widgets su la schermade di inizi</string>
+    <string name="settings_lock_layout_title">Bloche la disposizion</string>
+    <string name="title_show_google_app">Mostre la aplicazion Google</string>
+    <string name="trust_apps_auth_manager">Sbloche par gjestî lis aplicazions protetis e platadis</string>
+    <string name="trust_apps_auth_open_app">Autentichiti par vierzi %1$s</string>
+    <string name="trust_apps_help">Jutori</string>
+    <string name="trust_apps_info_hidden">Lis aplicazions platadis e i lôr widgets a son platâts dal scansel</string>
+    <string name="trust_apps_info_protected">Lis aplicazions protetis a domandin la autenticazion par jessi viertis dal inviadôr</string>
+    <string name="trust_apps_loading">Daûr a cjariâ…</string>
+    <string name="trust_apps_manager_name">Aplicazions protetis &amp; platadis</string>
+    <string name="trust_apps_no_lock_error">"Stabilìs une schermade di bloc sigure par limitâ l'acès ae aplicazion"</string>
+</resources>

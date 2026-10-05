@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="64.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/item_hidden_app_icon" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_centerVertical="true" android:layout_marginStart="16.0dip" />
+    <ImageView android:id="@id/item_protected_app_switch" android:background="?android:selectableItemBackgroundBorderless" android:padding="8.0dip" android:focusable="true" android:clickable="true" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_centerVertical="true" android:layout_marginEnd="56.0dip" android:layout_alignParentEnd="true" />
+    <ImageView android:id="@id/item_hidden_app_switch" android:background="?android:selectableItemBackgroundBorderless" android:padding="8.0dip" android:focusable="true" android:clickable="true" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_centerVertical="true" android:layout_marginEnd="16.0dip" android:layout_alignParentEnd="true" />
+    <TextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:id="@id/item_hidden_app_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="88.0dip" android:layout_marginEnd="88.0dip" android:layout_alignEnd="@id/item_hidden_app_switch" />
+</RelativeLayout>

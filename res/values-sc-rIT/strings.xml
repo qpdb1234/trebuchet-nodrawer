@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desktop_show_labels">"Mustra etichetas de icona in s'iscrivania"</string>
+    <string name="drawer_show_labels">Mustra etichetas de icona in su calàsciu</string>
+    <string name="msg_minus_one_on_left">"Cando iscurres a dereta dae s'ischermu printzipale initziale"</string>
+    <string name="msg_minus_one_on_right">"Cando iscurres a manca dae s'ischermu printzipale initziale"</string>
+    <string name="pref_suggestions_summary">"Pro otènnere is cussìgios de su calàsciu de aplicatziones e de s'ischermu printzipale"</string>
+    <string name="pref_suggestions_title">Cussìgios</string>
+    <string name="pref_themed_icons_summary">Sighi is iconas temàticas impreadas in sa pàgina printzipale</string>
+    <string name="pref_themed_icons_title">Imprea iconas temàticas in su calàsciu</string>
+    <string name="settings_edit_widgets_error">"Non faghet a agiùnghere trastos a s'ischermu printzipale"</string>
+    <string name="settings_lock_layout_summary_off">"Est possìbile agiùnghere, bogare e mòvere iconas e trastos in s'ischermu printzipale"</string>
+    <string name="settings_lock_layout_summary_on">"Non faghet a agiùnghere, bogare e mòvere iconas e trastos in s'ischermu printzipale"</string>
+    <string name="settings_lock_layout_title">Bloca sa dispositzione</string>
+    <string name="title_show_google_app">"Mustra s'aplicatzione de Google"</string>
+    <string name="trust_apps_auth_manager">Isbloca pro gestire is aplicatziones cuadas e amparadas</string>
+    <string name="trust_apps_auth_open_app">Autèntica·ti pro abèrrere %1$s</string>
+    <string name="trust_apps_help">Agiudu</string>
+    <string name="trust_apps_info_hidden">Is aplicatziones cuadas e is trastos suos ant a èssere cuados dae su calàsciu</string>
+    <string name="trust_apps_info_protected">"Is aplicatziones amparadas ant a rechèdere autenticatzione in antis de èssere abertas dae s'aviadore"</string>
+    <string name="trust_apps_loading">Carrighende…</string>
+    <string name="trust_apps_manager_name">Aplicatziones cuadas e amparadas</string>
+    <string name="trust_apps_no_lock_error">"Cunfigura un'ischermu de blocu seguru pro limitare s'atzessu a is aplicatziones"</string>
+</resources>

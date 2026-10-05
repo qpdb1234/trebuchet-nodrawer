@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:launcher="http://schemas.android.com/apk/res-auto">
+    <SwitchPreference android:persistent="true" android:title="@string/settings_lock_layout_title" android:key="pref_workspace_lock" android:defaultValue="false" android:summaryOn="@string/settings_lock_layout_summary_on" android:summaryOff="@string/settings_lock_layout_summary_off" />
+    <PreferenceCategory android:persistent="false" android:title="@string/grid_layout_title" android:key="pref_grid_layout">
+        <Preference android:title="@string/grid_rows_title" android:key="pref_grid_rows" android:summary="@string/grid_follow_default" />
+        <Preference android:title="@string/grid_columns_title" android:key="pref_grid_columns" android:summary="@string/grid_follow_default" />
+        <Preference android:title="@string/grid_hotseat_title" android:key="pref_grid_hotseat_icons" android:summary="@string/grid_follow_default" />
+        <Preference android:title="@string/icon_size_title" android:key="pref_icon_size" android:summary="@string/grid_follow_default" />
+    </PreferenceCategory>
+    <com.android.launcher3.settings.NotificationDotsPreference android:persistent="false" android:title="@string/notification_dots_title" android:key="pref_icon_badging" android:widgetLayout="@layout/notification_pref_warning" />
+    <SwitchPreference android:persistent="true" android:title="@string/allow_rotation_title" android:key="pref_allowRotation" android:summary="@string/allow_rotation_desc" android:defaultValue="false" launcher:logIdOff="616" launcher:logIdOn="615" />
+    <Preference android:title="@string/trust_apps_manager_name" android:key="pref_trust_apps" />
+    <SwitchPreference android:persistent="true" android:title="@string/desktop_show_labels" android:key="pref_desktop_show_labels" android:defaultValue="true" />
+</androidx.preference.PreferenceScreen>

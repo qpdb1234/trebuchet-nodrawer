@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desktop_show_labels">نیشاندانی ناوی وێنۆچکەکان لەسەر ڕوونمای سەرەکی</string>
+    <string name="drawer_show_labels">نیشاندانی ناوی وێنۆچکەکان لە ناو لیستی بەرنامەکاندا</string>
+    <string name="msg_minus_one_on_left">کاتێک لە پەڕەی ماڵەوە بەرەو لای ڕاست دەڕۆیت</string>
+    <string name="msg_minus_one_on_right">کاتێک لە پەڕەی ماڵەوە بەرەو لای چەپ دەڕۆیت</string>
+    <string name="pref_suggestions_summary">بۆ پێشنیارکردنی بەرنامەکان لە لیستی بەرنامەکان و پەڕەی ماڵەوەدا</string>
+    <string name="pref_suggestions_title">پێشنیارەکان</string>
+    <string name="pref_themed_icons_summary">شوێنکەوتنی وێنۆچکە ڕەنگاوڕەنگەکان کە لە پەڕەی ماڵەوەدا بەکارهێنراون</string>
+    <string name="pref_themed_icons_title">بەکارهێنانی وێنۆچکە ڕەنگاوڕەنگەکان لە لیستی بەرنامەکاندا</string>
+    <string name="settings_edit_widgets_error">ناتوانرێت قەدبڕ بۆ پەڕەی سەرەکی زیاد بکرێت</string>
+    <string name="settings_lock_layout_summary_off">وێنۆچکە و قەدبڕەکان دەتوانرێن زیاد بکرێن، لاببرێن یان بجوڵێنرێن لە پەڕەی ماڵەوەدا</string>
+    <string name="settings_lock_layout_summary_on">وێنۆچکە و قەدبڕەکان ناتوانرێن زیاد بکرێن، لاببرێن یان بجوڵێنرێن لە پەڕەی ماڵەوەدا</string>
+    <string name="settings_lock_layout_title">قوفڵکردنی ڕێکخستنی پەڕە</string>
+    <string name="title_show_google_app">نیشاندانی بەرنامەی گووگڵ</string>
+    <string name="trust_apps_auth_manager">بۆ بەڕێوەبردنی بەرنامە پارێزراو و شاردراوەکان پشکنینی ناسنامە ئەنجام بدە</string>
+    <string name="trust_apps_auth_open_app">بۆ کردنەوەی %1$s ناسنامەکەت بپشکنە</string>
+    <string name="trust_apps_help">یارمەتی</string>
+    <string name="trust_apps_info_hidden">بەرنامە شاردراوەکان و ویجێتەکانیان لە لیستی بەرنامەکان دەشاردرێنەوە</string>
+    <string name="trust_apps_info_protected">بەرنامە پارێزراوەکان پێویستیان بە پشکنینی ناسنامە هەیە بۆ ئەوەی بکرێنەوە</string>
+    <string name="trust_apps_loading">بارکردن…</string>
+    <string name="trust_apps_manager_name">بەرنامە پارێزراو و شاردراوەکان</string>
+    <string name="trust_apps_no_lock_error">تکایە قوفڵێکی ڕوونمای پارێزراو دابنێ بۆ سنووردارکردنی دەستگەیشتن بە بەرنامەکان</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher3.allapps.WorkEduCard android:gravity="center" android:paddingTop="@dimen/work_edu_card_margin" android:paddingBottom="@dimen/work_edu_card_bottom_margin" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/wrapper" android:background="@drawable/work_card" android:paddingTop="@dimen/work_card_margin" android:paddingBottom="@dimen/work_card_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/work_card_margin" android:paddingEnd="@dimen/work_card_margin">
+        <TextView android:textSize="18.0sp" android:textColor="?android:textColorPrimary" android:id="@id/work_apps_paused_title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/work_profile_edu_work_apps" android:layout_weight="1.0" android:textDirection="locale" android:paddingEnd="@dimen/work_edu_card_text_end_margin" style="@style/PrimaryHeadline" />
+        <FrameLayout android:background="@drawable/rounded_action_button" android:padding="@dimen/rounded_button_padding" android:layout_width="@dimen/rounded_button_width" android:layout_height="@dimen/rounded_button_width">
+            <ImageButton android:layout_gravity="center" android:id="@id/action_btn" android:background="@android:color/transparent" android:padding="@dimen/x_icon_padding" android:layout_width="@dimen/x_icon_size" android:layout_height="@dimen/x_icon_size" android:src="@drawable/ic_remove_no_shadow" android:contentDescription="@string/accessibility_close" />
+        </FrameLayout>
+    </LinearLayout>
+</com.android.launcher3.allapps.WorkEduCard>
